@@ -1,4 +1,4 @@
-# author = rhnvrm <hello@rohanverma.net>
+# author = Muhammad_Umer <nectolink@gmail.com>
 
 import os
 import re
