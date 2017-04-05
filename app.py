@@ -1,4 +1,4 @@
-# author = rhnvrm <hello@rohanverma.net>
+# author = Muhammad_Umer <nectolink@gmail.com>
 import os
 from flask import Flask, request, render_template, jsonify
 from twitter import TwitterClient
