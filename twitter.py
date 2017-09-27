@@ -1,6 +1,7 @@
 # author = Muhammad_Umer <nectolink@gmail.com>
 
 import os
+import numpy
 import re
 import tweepy
 from tweepy import OAuthHandler
